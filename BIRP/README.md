@@ -1,2 +1,2 @@
 > [!IMPORTANT]
-> Built-in Renderer Pipeline version of TheKit (SpawnCampGames Sandbox)
+> Built-in Renderer Pipeline version of The-Kit (SpawnCampGames Sandbox)
