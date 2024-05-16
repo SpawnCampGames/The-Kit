@@ -1,3 +1,6 @@
+
+<p align=center><img src="https://github.com/SpawnCampGames/The-Kit/blob/main/Documentation/src/SPWN_The-Kit_OG.png"></p>
+
 ## 🧰The-Kit
 The-Kit is *SpawnCampGame's* official Unity **Sandbox** project.  
 
@@ -38,3 +41,5 @@ For seamless integration with our custom assets, ensure to include our namespace
 ```csharp
 using SPWN;
 ```
+
+<p align=center><img src="https://github.com/SpawnCampGames/The-Kit/blob/main/Documentation/src/GetYourPrototypeOn.png"></p>
