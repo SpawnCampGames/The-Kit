@@ -1,3 +1,3 @@
 > [!IMPORTANT]
-> Universal Renderer Pipeline version of TheKit (SpawnCampGames Sandbox)
+> Universal Renderer Pipeline version of The-Kit (SpawnCampGames Sandbox)
 
