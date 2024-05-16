@@ -1,30 +1,33 @@
-## The-Kit
-The-Kit is SpawnCampGame's official Unity **Sandbox** project.
-> It's a foundational Unity project featuring common Unity packages along with basic custom materials, textures, models, and more.
-Many packages are recommended for a new prototyping project but to keep the project simple we've avoided using any of them within our sample scenes.
-For a list of packages we recommend having please see our [recommended asset list](https://github.com/SpawnCampGames/The-Kit/blob/main/Documentation/README.md#recommended-assets) within the Documentation.
+## 🧰The-Kit
+The-Kit is *SpawnCampGame's* official Unity **Sandbox** project.  
 
-### The-Features
+> A beginner-friendly Unity Template great for learning, prototyping, or even as a starter project.  
+> It features common Unity packages along with basic custom materials, textures, models, and more.  
+To keep the project small and simple we've excluded many assets that we would have normally included.
+
+<sub>! check out our [recommended asset list](https://github.com/SpawnCampGames/The-Kit/blob/main/Documentation/README.md#recommended-assets) in the documentation.</sub>
+
+#### FEATURES
 - Materials
 - Sprites
 - Textures
 - 3D Meshs
 - Scripts
 
-### Comes in Two Flavors
+#### 🍦 Comes in Two Flavors
 - URP (Universal Renderer Pipeline)
 - BIRP (Built-in Renderer Pipeline)
 
-## The-Installation
+#### INSTALLATION 💾
 - Clone the **URP** or **BIRP** repository to your computer and Open the Project in Unity.
 - Download repository as zip, extract, add the *root* folder to your Unity Hub, and Open the Project in Unity.
 - Download `SPWN_TheKit.unitypackage` in the [**Releases**](https://github.com/SpawnCampGames/The-Kit/releases) section and Import in Unity.
 
 > [!Important]
-> When importing as Unity Package, Untick the unneeded pipeline.
+> When importing as Unity Package, Untick the unneeded pipeline.  
 > All `SPWN` custom assets are available in both versions.
 
-## The-Documentation 📘
+#### DOCUMENTATION 📘
 Need help?  
 
 While we *try* to keep our code organized and *well* documented there's much more information in the docs.  
