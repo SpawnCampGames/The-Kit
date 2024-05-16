@@ -1,15 +1,15 @@
 ![SPWN_Code](https://github.com/SpawnCampGames/Sandbox/blob/main/SPWN_Code.png)
 
-### `Spwn_Code` Documentation: 🔍
+### `SPWN_Code` Documentation: 📘
 
-Unity C# scripts to make prototyping 🚧 faster and easier!
+Unity `C#` scripts to make prototyping / developing 🚧 faster and easier!
 
 Including but not limited to: 
 
-- `GlobalTransform.cs`  Returns `this.transform`'s global values (position, rotation, and scale)
-- `Raycast.cs`  Raycast testing and visualization component
-- `Singleton.cs`  Generic singleton (create singletons simply with inheritance)
-- `Utils.cs`  Misc class / Holds custom properties
+- `GlobalTransform.cs`  Returns `this.transform`'s **global values** (position, rotation, and scale)
+- `Raycast.cs`  **Raycast testing** and visualization component
+- `Singleton.cs`  **Generic singleton** (create singletons simply with inheritance)
+- `Utils.cs`  ~~unused~~
 
 ---
 💬
@@ -19,22 +19,13 @@ using UnityEngine;
 using SPWN; // <---
 ```
 
-.. to the header of your script.
+.. to the header of your script. And you're all set.
+
+### 📁Trigger
+- Makes use of Unity's `Collider` and `isTrigger` property.
+
 
 <!-- Start Whitespace /-->
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
