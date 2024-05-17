@@ -10,6 +10,9 @@ To keep the project small and simple we've excluded many assets that we would ha
 
 <sub>! check out our [recommended asset list](https://github.com/SpawnCampGames/The-Kit/blob/main/Documentation/README.md#recommended-assets) in the documentation.</sub>
 
+> [!Note]
+> Made with **_Unity 6000.0.0f1_**
+
 #### FEATURES
 - Materials
 - Sprites
