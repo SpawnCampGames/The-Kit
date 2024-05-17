@@ -1,6 +1,6 @@
 ![SPWN_Code](https://github.com/SpawnCampGames/Sandbox/blob/main/SPWN_Code.png)
 
-### `SPWN_Code` Documentation: 📘
+### `Spwn_Code` Documentation: 📘
 
 Unity `C#` scripts to make prototyping / developing 🚧 faster and easier!
 
