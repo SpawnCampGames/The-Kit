@@ -1,4 +1,4 @@
-![SPWN_Player](https://github.com/SpawnCampGames/Sandbox/blob/main/src/SPWN_Player.png)
+![SPWN_Player](https://github.com/SpawnCampGames/The-Kit/blob/main/Documentation/src/SPWN_Player.png)
 
 ## `Spwn_Player` Documentation: 📘
 > Simple Unity **Character Controller** Movement & Camera System
