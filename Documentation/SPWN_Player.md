@@ -1,11 +1,14 @@
-## SPWN_Player
-> Custom Character Controller for Unity projects
-- x
-- y
-- z
+### `SPWN_Player` Documentation: 📘
 
-### Structure of Character
+<!-- Start Whitespace /-->
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+<!-- End Whitespace /-->
 
-### Code
-
-### Other
+📌 `version 0.0.1`  
+<sub>SpawnCampGames 2024</sub>
