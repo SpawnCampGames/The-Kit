@@ -17,11 +17,9 @@ To keep the project small and simple we've excluded many assets that we would ha
 - 3D Meshs
 - Scripts
 
----
-
-#### 🍦 Comes in Two Flavors
-- [URP](https://github.com/SpawnCampGames/The-Kit-URP) (Universal Renderer Pipeline)  
-- [STANDARD](https://github.com/SpawnCampGames/The-Kit-Standard) (Built-in Renderer Pipeline)  
+## 🍦 Comes in Two Flavors
+- [**URP**](https://github.com/SpawnCampGames/The-Kit-URP) (Universal Renderer Pipeline)  
+- [**STANDARD**](https://github.com/SpawnCampGames/The-Kit-Standard) (Built-in Renderer Pipeline)  
 
 #### INSTALLATION 💾
 - **Clone** the **URP** or **STANDARD** repository to your computer. Add project to **Unity Hub** and **Open**.  
