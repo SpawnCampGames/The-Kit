@@ -17,18 +17,24 @@ To keep the project small and simple we've excluded many assets that we would ha
 - 3D Meshs
 - Scripts
 
+---
+
 #### 🍦 Comes in Two Flavors
-- URP (Universal Renderer Pipeline)
-- BIRP (Built-in Renderer Pipeline)
+- [URP](https://github.com/SpawnCampGames/The-Kit-URP) (Universal Renderer Pipeline)  
+- [STANDARD](https://github.com/SpawnCampGames/The-Kit-Standard) (Built-in Renderer Pipeline)  
 
 #### INSTALLATION 💾
-- Clone the **URP** or **BIRP** repository to your computer and Open the Project in Unity.
-- Download repository as zip, extract, add the *root* folder to your Unity Hub, and Open the Project in Unity.
-- Download `SPWN_TheKit.unitypackage` in the [**Releases**](https://github.com/SpawnCampGames/The-Kit/releases) section and Import in Unity.
+- **Clone** the **URP** or **STANDARD** repository to your computer. Add project to **Unity Hub** and **Open**.  
+- **Download** the repository as **zip**. **Extract** to your computer. Add project to **Unity Hub** and **Open**.  
+- **Download** desired **Unity Package** in the [**Releases**](https://github.com/SpawnCampGames/The-Kit/releases) Section and **Import** into Unity.  
+  - `SPWN_TheKit_URP.unitypackage`  
+  - `SPWN_TheKit_STNDRD.unitypackage`   
 
 > [!Important]
 > When importing as Unity Package, Untick the unneeded pipeline.  
 > All `SPWN` custom assets are available in both versions.
+
+---
 
 #### DOCUMENTATION 📘
 Need help?  
