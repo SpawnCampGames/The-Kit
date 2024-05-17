@@ -1,4 +1,4 @@
-### `SPWN_Player` Documentation: 📘
+## `Spwn_Player` Documentation: 📘
 > Simple Unity **Character Controller** Movement & Camera System
 
 ### Structure
