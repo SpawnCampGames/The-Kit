@@ -1,5 +1,5 @@
 
-<p align=center><img src="https://github.com/SpawnCampGames/The-Kit/blob/main/Documentation/src/SPWN_The-Kit_OG.png"></p>
+<p align=center><img src="https://github.com/SpawnCampGames/Documentation/blob/main/gfx/SPWN.png?raw=true"></p>
 
 ## 🧰The-Kit
 The-Kit is *SpawnCampGame's* official Unity **Sandbox** project.  
